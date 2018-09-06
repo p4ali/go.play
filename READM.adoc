@@ -1,0 +1,4 @@
+== Referencxe
+
+* https://ieftimov.com/golang-datastructures-linked-lists[Data structure in go]
+* https://blog.alexellis.io/golang-writing-unit-tests/[Testing in go]
